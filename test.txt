@@ -1,0 +1,2 @@
+http://192.168.124.200/php_xss.php?param=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95
+http://192.168.124.200/php_xss.php?param=<script>alert(/xss/)</script>
